@@ -9,8 +9,6 @@ Here are some of the tools and languages I have experience with and use in proje
 <p align="center">
 <img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="centre" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="centre" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="centre" alt="Java" width="50px" style="padding-right:10px;" src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.sv](https://iconscout.com/icon/java-2752149)g" />
 <img align="centre" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="centre" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="centre" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -18,6 +16,9 @@ Here are some of the tools and languages I have experience with and use in proje
 </p>
 
 ## Web Development: 
+<p align="center">
+  <img align="centre" alt="ReactJS" width="50px" style="padding-right:10px; src="https://www.svgrepo.com/show/358128/react.svg" />
+</p>
 ReactJS, Angular, Springboot 
 Data Science & Machine Learning: Scikit-learn, TensorFlow, Keras, Regression, Classification, Clustering
 Databases: firebase, Postgres, SQL, NoSQL
