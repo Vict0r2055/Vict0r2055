@@ -1,7 +1,6 @@
 # Luyanda Nqobani Mpanza
 
-👋 Hello, I'm Luyanda Nqobani Mpanza!
-Welcome to my GitHub profile! I'm a Software developer enthusiast with a passion for pushing the boundaries of technology and creativity. Below you'll find more about me, my skills, and what I'm currently working on.
+👋Greetings, I'm Luyanda Nqobani Mpanza! Welcome to my GitHub profile! I'm an avid Software Developer with a fervent drive to explore the realms of technology and creativity. Delve into more about me, my proficiencies, and my ongoing ventures below.
 
 
 ## 🧰 Languages and Tools
@@ -14,7 +13,7 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
 </p>
 
-## Web Development: 
+## Web Development:  
 <p align="center">
   <ul>ReactJS</ul>
   <ul>Angular</ul>
@@ -37,12 +36,11 @@ Here are some of the tools and languages I have experience with and use in proje
 
 
 ## 💼 Education:
-BSC Computer Science and Statistics At the University of Zululand Competed in 2023
+BSc in Computer Science and Statistics, University of Zululand (Class of 2023)
 
 
 ## 🌱 Currently Learning
-AWS Data Engineering course, Cisco Cyberops Associate
-Enrolled as BSC Computer Science Honours Student at the Univeristy of Zululand
+Engaged in AWS Data Engineering course and pursuing Cisco Cyberops Associate certification. Additionally, enrolled as a BSc Computer Science Honours student at the University of Zululand.
 
 ## 🔭 Current Projects
 Currently planning on working on my honours research project on : TITLE- Data driven decision making 
@@ -50,5 +48,5 @@ Currently planning on working on my honours research project on : TITLE- Data dr
 ## 📫 Get in Touch
 ### LinkedIn: www.linkedin.com/in/luyanda-mpanza
 ### Email: luyasmpanza@gmail.com
-Feel free to reach out if you want to collaborate on something exciting or just to say hi! Let's connect and create something awesome together. 😊
+Feel free to reach out for exciting collaborations or just to say hi! Let's connect and craft something remarkable together 😊
 
