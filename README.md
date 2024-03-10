@@ -1,16 +1,26 @@
-### Hi there 👋
+👋 Hello, I'm Luyanda Nqobani Mpanza!
+Welcome to my GitHub profile! I'm a Software developer enthusiast with a passion for pushing the boundaries of technology and creativity. Below you'll find more about me, my skills, and what I'm currently working on.
 
-<!--
-**Vict0r2055/Vict0r2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Skills
+Programming Languages: Python, JavaScript, Java, HTML, Dart, R
+Web Development: ReactJS, Angular, Springboot 
+Data Science & Machine Learning: Scikit-learn, TensorFlow, Keras, Regression, Classification, Clustering
+Databases: firebase, Postgres, SQL, NoSQL
+DevOps: currently completing course on netcad CyberOps Associate
+currently also enrolled in engineering
+💼 Education:
+BSC Computer Science and Statistics At the University of Zululand Competed in 2023
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+AWS Data Engineering course, Cisco Cyberops Associate
+Enrolled as BSC Computer Science Honours Student at the Univeristy of Zululand
+
+🔭 Current Projects
+Currently planning on working on my honours research project on : TITLE- Data driven decision making 
+
+📫 Get in Touch
+LinkedIn: www.linkedin.com/in/luyanda-mpanza
+Email: luyasmpanza@gmail.com
+Feel free to reach out if you want to collaborate on something exciting or just to say hi! Let's connect and create something awesome together. 😊
+
