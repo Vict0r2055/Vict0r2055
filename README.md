@@ -34,21 +34,21 @@ Here are some of the tools and languages I have experience with and use in proje
 <ul>Postgres</ul>
 <ul> SQL </ul>
 <ul>NoSQL</ul>
-DevOps: currently completing course on netcad CyberOps Associate
-currently also enrolled in engineering
-💼 Education:
+
+
+## 💼 Education:
 BSC Computer Science and Statistics At the University of Zululand Competed in 2023
 
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 AWS Data Engineering course, Cisco Cyberops Associate
 Enrolled as BSC Computer Science Honours Student at the Univeristy of Zululand
 
-🔭 Current Projects
+## 🔭 Current Projects
 Currently planning on working on my honours research project on : TITLE- Data driven decision making 
 
-📫 Get in Touch
-LinkedIn: www.linkedin.com/in/luyanda-mpanza
-Email: luyasmpanza@gmail.com
+## 📫 Get in Touch
+### LinkedIn: www.linkedin.com/in/luyanda-mpanza
+### Email: luyasmpanza@gmail.com
 Feel free to reach out if you want to collaborate on something exciting or just to say hi! Let's connect and create something awesome together. 😊
 
