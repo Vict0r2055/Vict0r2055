@@ -1,4 +1,4 @@
-# Luyanda Mpanza
+# Luyanda Nqobani Mpanza
 
 👋 Hello, I'm Luyanda Nqobani Mpanza!
 Welcome to my GitHub profile! I'm a Software developer enthusiast with a passion for pushing the boundaries of technology and creativity. Below you'll find more about me, my skills, and what I'm currently working on.
@@ -10,14 +10,15 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="centre" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="centre" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="centre" alt="Java" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg" />
+<img align="centre" alt="Java" width="50px" style="padding-right:10px;" src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.sv](https://iconscout.com/icon/java-2752149)g" />
 <img align="centre" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="centre" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="centre" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
 </p>
 
-Web Development: ReactJS, Angular, Springboot 
+## Web Development: 
+ReactJS, Angular, Springboot 
 Data Science & Machine Learning: Scikit-learn, TensorFlow, Keras, Regression, Classification, Clustering
 Databases: firebase, Postgres, SQL, NoSQL
 DevOps: currently completing course on netcad CyberOps Associate
