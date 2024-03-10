@@ -8,7 +8,7 @@ Here are some of the tools and languages I have experience with and use in proje
 <img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="centre" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="centre" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="centre" alt="Terraform" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+<img align="centre" alt="Java" width="50px" style="padding-right:10px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F184143%2Fjava.svg&tbnid=dEVlDCtf7QPWFM&vet=12ahUKEwj1uPvE0uqEAxXohCcCHUiaDLAQMygAegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F184143%2Fjava&docid=-eenhJDfPlTx6M&w=800&h=800&q=java%20svg&ved=2ahUKEwj1uPvE0uqEAxXohCcCHUiaDLAQMygAegQIARBP" />
 <img align="centre" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="centre" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="centre" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
