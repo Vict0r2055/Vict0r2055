@@ -1,52 +1,76 @@
-# Luyanda Nqobani Mpanza
+# 👋 Hi, I'm Luyanda Nqobani Mpanza
 
-👋Greetings, I'm Luyanda Nqobani Mpanza! Welcome to my GitHub profile! I'm an avid Software Developer with a fervent drive to explore the realms of technology and creativity. Delve into more about me, my proficiencies, and my ongoing ventures below.
+Welcome to my GitHub profile. I'm a Software Developer with a strong interest in data-driven systems, backend development, and machine learning. I enjoy building practical solutions, experimenting with new tools, and turning ideas into working software.
 
+---
 
-## 🧰 Languages and Tools
-Here are some of the tools and languages I have experience with and use in projects:
+## 🧰 Languages & Tools
+
 <p align="center">
-<img align="centre" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="centre" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="centre" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="centre" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="centre" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />    
+  <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-## Web Development:  
-<p align="center">
-  <ul>ReactJS</ul>
-  <ul>Angular</ul>
-  <ul>Springboot</ul>
-</p>
+---
 
-## Data Science & Machine Learning: 
-<ul>Scikit-learn</ul>
-<ul>Tensorflow</ul>
-<ul>Keras</ul>
-<ul>Regression</ul>
-<ul>Classification</ul>
-<ul>Clustering</ul>
+## 💻 Web Development
 
-## Databases: 
-<ul> firebase</ul> 
-<ul>Postgres</ul>
-<ul> SQL </ul>
-<ul>NoSQL</ul>
+- ReactJS  
+- Angular  
+- Spring Boot  
+- HTML, CSS, JavaScript  
 
+---
 
-## 💼 Education:
-BSc in Computer Science and Statistics, University of Zululand (Class of 2023)
+## 🤖 Data Science & Machine Learning
 
+- Scikit-learn  
+- TensorFlow  
+- Keras  
+- Regression, Classification, Clustering  
+- Model evaluation & experimentation  
+
+---
+
+## 🗄️ Databases
+
+- Firebase  
+- PostgreSQL  
+- SQL  
+- NoSQL  
+
+---
+
+## 🎓 Education
+
+- MSc in Computer Science (in progress), University of Zululand  
+- BSc (Hons) Computer Science, University of Zululand  
+- BSc Computer Science and Statistics, University of Zululand (Class of 2023)  
+
+---
 
 ## 🌱 Currently Learning
-Engaged in AWS Data Engineering course and pursuing Cisco Cyberops Associate certification. Additionally, enrolled as a BSc Computer Science Honours student at the University of Zululand.
 
-## 🔭 Current Projects
-Currently planning on working on my honours research project on : TITLE- Data driven decision making 
+- AWS Data Engineering  
+- Cisco CyberOps Associate  
+- Advanced topics in machine learning and data-driven decision making  
+
+---
+
+## 🔭 Current Focus
+
+- Building and improving projects around data-driven decision making and intelligent systems  
+- Exploring applications of machine learning in real-world environments  
+
+---
 
 ## 📫 Get in Touch
-### LinkedIn: www.linkedin.com/in/luyanda-mpanza
-### Email: luyasmpanza@gmail.com
-Feel free to reach out for exciting collaborations or just to say hi! Let's connect and craft something remarkable together 😊
 
+- **LinkedIn:** [linkedin.com/in/luyanda-mpanza](https://www.linkedin.com/in/luyanda-mpanza)  
+- **GitHub:** [github.com/Vict0r2055](https://github.com/Vict0r2055)  
+- **Email:** luyasmpanza@gmail.com  
+
+Always open to collaborations, interesting problems, or just a good conversation about code and data.  
